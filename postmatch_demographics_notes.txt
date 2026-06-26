@@ -1,0 +1,86 @@
+POSTMATCH_DEMOGRAPHICS_NOTES.TXT
+File: postmatch_demographics_notes.txt
+Subject: Football wins and birth-rate research — verified facts only
+
+==================================================
+1. FC BARCELONA TREBLE (2009) — THE 16% FIGURE
+==================================================
+
+- Source: Montesinos et al., "Barcelona baby boom: does sporting success
+  affect birth rate?", BMJ, 2013;347:f7387.
+- In May 2009, FC Barcelona won the treble: La Liga, Copa del Rey, and
+  the UEFA Champions League.
+- Researchers analyzed birth records (2007–2011) from two hospitals in
+  the Bages/Solsonès region of Catalonia.
+- Result: a 16% increase in births in February 2010 (nine months after
+  the wins) compared with other years, and an 11% increase in March 2010.
+- The city of Barcelona itself saw only a 1.2% increase over the same
+  period — much smaller than the Bages/Solsonès region.
+- Media at the time reported up to a 45% spike, dubbed the "Iniesta
+  generation." The study authors stated this 45% figure was an
+  exaggeration not supported by the hospital data they reviewed.
+- The 16% figure is specific to this 2009 club-level treble win, not
+  to the 2010 World Cup.
+
+==================================================
+2. 2010 FIFA WORLD CUP FINAL — MATCH FACTS
+==================================================
+
+- Match: Netherlands 0–1 Spain (after extra time)
+- Date: 11 July 2010
+- Venue: Soccer City, Johannesburg, South Africa
+- Goal: Andrés Iniesta, 116th minute, assisted by Cesc Fàbregas
+- Referee: Howard Webb (England)
+- Attendance: 84,490
+- Result: Spain's first World Cup title; first European team to win
+  the World Cup outside Europe
+
+==================================================
+3. 2010 WORLD CUP — BIRTH-RELATED RESEARCH
+==================================================
+
+- Source: Masukume & Grech, "The sex ratio at birth in South Africa
+  increased 9 months after the 2010 FIFA World Cup," Early Human
+  Development, 2015.
+- This study examined the HOST country, South Africa — not Spain.
+- It measured birth SEX RATIO (proportion of male births), not overall
+  birth rate.
+- Finding: February and March 2011 (about nine months after the World
+  Cup) showed the highest observed sex ratio at birth for the 2003–2012
+  period studied, a 0.63% increase (p = 0.02) versus the same months in
+  2008–2012, corresponding to an estimated 1,000+ extra male births.
+- This is a separate finding from the Barcelona 16% figure (Section 1):
+  different event, different country, different metric (sex ratio vs.
+  overall birth count).
+
+==================================================
+4. SPAIN — NATIONAL BIRTH TREND CONTEXT (SAME PERIOD)
+==================================================
+
+- Source: Spain's National Statistics Institute (INE).
+- Spain recorded 519,779 births in 2008 (a 30-year high).
+- Births then declined for five consecutive years, coinciding with the
+  2008–2013 Spanish economic crisis.
+- By 2014, annual births had fallen to 426,303 — roughly an 18% decline
+  from the 2008 peak — before rising slightly (+0.1%) in 2014, the
+  first annual increase after the five-year decline.
+- Any localized football-related birth upticks (Sections 1 and 3) occurred
+  against this broader national downward trend; they did not reverse it
+  at the national level.
+
+==================================================
+SUMMARY TABLE
+==================================================
+
+Event                          | Region          | Metric            | Result
+--------------------------------|------------------|-------------------|------------------
+FC Barcelona treble (2009)      | Bages/Solsonès,  | Birth count       | +16% (Feb 2010)
+                                 | Catalonia, Spain |                   | +11% (Mar 2010)
+2010 FIFA World Cup Final       | South Africa     | Sex ratio at birth| +0.63% (p=0.02),
+(Spain won)                     | (host country)   |                   | ~1,000+ extra
+                                 |                  |                   | male births
+Spain, national level           | Spain (national) | Birth count       | -18% 2008→2014
+(economic crisis period)        |                  |                   | (unrelated to
+                                 |                  |                   | football)
+
+END OF NOTES
